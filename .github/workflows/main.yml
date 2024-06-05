@@ -26,4 +26,4 @@ jobs:
         with:
           folder: portfolio-italloramon/dist/browser
           branch: prod  
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.ACCESS_TOKEN }}
